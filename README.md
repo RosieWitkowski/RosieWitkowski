@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RosieWitkowski
-- 👀 I’m interested in ... applying for University
-- 🌱 I’m currently self-studying ... Computer Science
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently studying @ university
 
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
