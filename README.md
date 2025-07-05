@@ -1,4 +1,4 @@
-Hello world, I’m @RosieWitkowski
+Hello, I’m @RosieWitkowski
 - I’m currently studying at university
 
 <!---
