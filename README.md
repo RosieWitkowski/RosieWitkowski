@@ -1,5 +1,5 @@
 Hello, I’m @RosieWitkowski
-- I’m currently studying at university
+- Currently studying at university
 
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
