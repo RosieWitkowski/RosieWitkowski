@@ -1,4 +1,4 @@
-<img width="680" height="382" alt="iLikeThisIDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
+<img width="340" height="191" alt="iLikeThisIDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
 
 Hello, I’m Rosie Witkowski, and I'm currently studying Computer Science at university!
 
