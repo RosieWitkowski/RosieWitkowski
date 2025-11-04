@@ -2,6 +2,9 @@
 
 Hello, I’m Rosie Witkowski, and I'm currently studying Computer Science at university!
 
+# Portfolio
+https://github.com/RosieWitkowski/Portfolio
+
 # Projects
 
 <!---
