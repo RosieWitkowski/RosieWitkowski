@@ -9,7 +9,7 @@ https://github.com/RosieWitkowski/UniversityYear1
 https://github.com/RosieWitkowski/Portfolio
 
 # Projects
-## Hackathon 2025 - Small text-based escape room adventure
+### Hackathon 2025 - Small text-based escape room adventure
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
