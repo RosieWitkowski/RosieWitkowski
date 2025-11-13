@@ -14,7 +14,7 @@ https://github.com/RosieWitkowski/Portfolio
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
 
 ### CS50X 2023 - PocketLibrary.io 
-**Description**: A website for personal record-keeping, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
+**Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
 https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
