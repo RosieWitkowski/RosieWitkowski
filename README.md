@@ -2,10 +2,10 @@
 
 ### Hello, I’m Rosie Witkowski and I'm currently studying Computer Science at university!
 
-# Current work 
+# Currently working on
 https://github.com/RosieWitkowski/UniversityYear1
 
-# Portfolio
+# Portfolio (excludes above repo, to be added by next year)
 https://github.com/RosieWitkowski/Portfolio
 
 # Projects
