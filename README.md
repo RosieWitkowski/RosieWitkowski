@@ -1,6 +1,6 @@
 <img width="400" height="220" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
 
-### Hello, I’m Rosie Witkowski, and I'm currently studying Computer Science at university!
+### Hello, I’m Rosie Witkowski and I'm currently studying Computer Science at university!
 
 # Current work 
 https://github.com/RosieWitkowski/UniversityYear1
