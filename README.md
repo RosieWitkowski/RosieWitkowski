@@ -13,6 +13,10 @@ https://github.com/RosieWitkowski/Portfolio
 **Description**: An enganging text-based adventure with fun riddles and bizzare dialogue, completed in a challenging 1-hour time limit.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
 
+### Study Motivator 2025
+**Description**: A fun and simple productivity CLI app that lets you build up points, collect titles and spin a customizable prize wheel. A quick personal project to practice basic programming techniques.
+https://github.com/RosieWitkowski/UniversityYear1/tree/main/Year1VS/study_motivator
+
 ### CS50X 2023 - PocketLibrary.io 
 **Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
 https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project
