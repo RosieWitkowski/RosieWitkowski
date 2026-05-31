@@ -10,6 +10,10 @@ https://github.com/RosieWitkowski/UniversityYear1
 https://github.com/RosieWitkowski/Portfolio
 
 # Projects
+### Quackulator 2026 - Mini Tkinter project
+**Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
+https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/quackulator
+
 ### Hackathon 2025 - Wizard Escape Room
 **Description**: An enganging text-based adventure with fun riddles and bizzare dialogue, completed in a challenging 1-hour time limit.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
