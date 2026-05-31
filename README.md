@@ -5,7 +5,8 @@
 # Currently working on
 https://github.com/RosieWitkowski/UniversityYear1
 
-# Portfolio (excludes above repo, to be added by next year)
+# Portfolio 
+(Does not include files from this university year - I will select some projects from that repo once it is complete.)
 https://github.com/RosieWitkowski/Portfolio
 
 # Projects
