@@ -10,6 +10,10 @@ https://github.com/RosieWitkowski/UniversityYear1
 https://github.com/RosieWitkowski/Portfolio
 
 # Projects
+### WeatherApp 2026 - API, GUI, Python 
+**Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
+https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app 
+
 ### Quackulator 2026 - Mini Tkinter project
 **Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/quackulator
