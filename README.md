@@ -12,13 +12,12 @@
 #### [Hackathon 2025 - Wizard Escape Room 🧩] (https://github.com/RosieWitkowski/Hackathon2025/tree/main)
 **Description**: An enganging text-based adventure with fun riddles, completed in a challenging 1-hour time limit (placing 1st in the competition).
 
-#### [Study Motivator 2025 💰](https://github.com/RosieWitkowski/StudyMotivator)
+#### [Study Motivator 2025 📊](https://github.com/RosieWitkowski/StudyMotivator)
 **Description**: A fun and simple productivity CLI app that lets you build up points, collect titles and spin a customizable prize wheel. A quick personal project to practice basic programming techniques.
 
 
-### CS50X 2023 - PocketLibrary.io 
+### [CS50X 2023 - PocketLibrary.io 📚](https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project)
 **Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
-https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project
 
 ## 🎓 University Repositories 
 (Private)
