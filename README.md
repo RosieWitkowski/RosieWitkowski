@@ -1,7 +1,5 @@
-<img width="220" height="120" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
-
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
-
+~~<img width="220" height="120" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />~~
 ## 🖥️ Projects 
 #### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/Summer2026/tree/main/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
