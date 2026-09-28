@@ -1,4 +1,4 @@
-## Hello, I'm Rosie Witkowski a second year computer science student! 
+## Hello, I'm Rosie Witkowski! I'm currently studying Computer Science and am looking for industry placements for next year.
 <img width="2125" height="375" alt="github-header-banner" src="https://github.com/user-attachments/assets/ee6f3d31-6420-44a5-8283-967bfa8bc77f" />
 
 ## 🖥️ Projects 
