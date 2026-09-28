@@ -20,7 +20,7 @@
 
 ## 🎓 University Repositories 
 (Public)
-### [Summer between first and second year ☀️](https://github.com/RosieWitkowski/Summer2026)
+#### [Summer between first and second year ☀️](https://github.com/RosieWitkowski/Summer2026)
 (Private)
 #### [Year 2 🐥- 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
 #### [Year 1 🐣 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
