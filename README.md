@@ -19,9 +19,11 @@
 **Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
 
 ## 🎓 University Repositories 
+(Public)
+### [Summer between first and second year ☀️](https://github.com/RosieWitkowski/Summer2026)
 (Private)
-#### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
-#### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
+#### [Year 2 🐥- 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
+#### [Year 1 🐣 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
 
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
