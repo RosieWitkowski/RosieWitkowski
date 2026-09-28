@@ -1,6 +1,10 @@
 ## Hello, I'm Rosie Witkowski! I'm currently studying Computer Science and am looking for industry placements for next year.
 <img width="2125" height="375" alt="github-header-banner" src="https://github.com/user-attachments/assets/ee6f3d31-6420-44a5-8283-967bfa8bc77f" />
 
+[<img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/2c17e261-842b-4301-ac11-a35dced3458e" />](https://www.linkedin.com/in/rosie-witkowski/) [<img width="51" height="51" alt="leetcode" src="https://github.com/user-attachments/assets/f2766636-bc8b-4aeb-ad82-d8e89c9ec88b" />](https://leetcode.com/u/RosieWitkowski/)
+
+
+
 ## 🖥️ Projects 
 #### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/Summer2026/tree/main/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
