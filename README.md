@@ -2,10 +2,6 @@
 
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
 
-## 🎓 University Repositories 
-#### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
-#### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
-
 ## 🎨 Projects 
 #### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
@@ -25,6 +21,12 @@ https://github.com/RosieWitkowski/UniversityYear1/tree/main/Year1VS/study_motiva
 ### CS50X 2023 - PocketLibrary.io 
 **Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
 https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project
+
+## 🎓 University Repositories 
+(Private while course in progress)
+#### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
+#### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
+
 <!---
 RosieWitkowski/RosieWitkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
