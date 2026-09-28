@@ -3,22 +3,22 @@
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
 
 ## 🎓 University Repositories 
-### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
-### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
+#### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
+#### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
 
 ## 🎨 Projects 
-### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
+#### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
 
-### Quackulator 2026 - Mini Tkinter project
+#### Quackulator 2026 - Mini Tkinter project
 **Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/quackulator
 
-### Hackathon 2025 - Wizard Escape Room
+#### Hackathon 2025 - Wizard Escape Room
 **Description**: An enganging text-based adventure with fun riddles, completed in a challenging 1-hour time limit (placing 1st in the competition).
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
 
-### Study Motivator 2025
+#### Study Motivator 2025
 **Description**: A fun and simple productivity CLI app that lets you build up points, collect titles and spin a customizable prize wheel. A quick personal project to practice basic programming techniques.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/Year1VS/study_motivator
 
