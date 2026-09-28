@@ -23,7 +23,7 @@ https://github.com/RosieWitkowski/UniversityYear1/tree/main/Year1VS/study_motiva
 https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project
 
 ## 🎓 University Repositories 
-(Private while course in progress)
+(Private)
 #### [Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
 #### [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
 
