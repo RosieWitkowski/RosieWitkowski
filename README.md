@@ -13,7 +13,7 @@
 #### [Quackulator 2026 - Mini Tkinter project 🎨](https://github.com/RosieWitkowski/Summer2026/tree/main/quackulator)
 **Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
 
-#### [Hackathon 2025 - Wizard Escape Room 🧩] (https://github.com/RosieWitkowski/Hackathon2025/tree/main)
+#### [Hackathon 2025 - Wizard Escape Room 🧩](https://github.com/RosieWitkowski/Hackathon2025/tree/main)
 **Description**: An enganging text-based adventure with fun riddles, completed in a challenging 1-hour time limit (placing 1st in the competition).
 
 #### [Study Motivator 2025 📊](https://github.com/RosieWitkowski/StudyMotivator)
