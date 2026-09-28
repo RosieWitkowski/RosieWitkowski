@@ -1,4 +1,4 @@
-[/<img width="400" height="220" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />/]:  
+`<img width="400" height="220" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />` 
 
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
 
