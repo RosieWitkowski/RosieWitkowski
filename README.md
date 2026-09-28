@@ -2,14 +2,11 @@
 
 ### Hello, I am Rosie Witkowski and I am currently studying Computer Science at university!
 
-# Currently working on
-https://github.com/RosieWitkowski/UniversityYear2
+## University Repositories 
+Year 2 2026-27  https://github.com/RosieWitkowski/UniversityYear2
+Year 1 2025-26 https://github.com/RosieWitkowski/UniversityYear1
 
-# University Repositories 
-### Year 2 2026-27  https://github.com/RosieWitkowski/UniversityYear2
-### Year 1 2025-26 https://github.com/RosieWitkowski/UniversityYear1
-
-# Projects
+## Projects
 ### WeatherApp 2026 - API, GUI, Python 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app 
