@@ -3,13 +3,12 @@
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
 
 ## 🎓 University Repositories 
-[Year 2 2026-27](https://github.com/RosieWitkowski/UniversityYear2)
-Year 1 2025-26 https://github.com/RosieWitkowski/UniversityYear1
+[Year 2 - 2026/27](https://github.com/RosieWitkowski/UniversityYear2)
+[Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
 
 ## 🎨 Projects 
-### WeatherApp 2026 - API, GUI, Python 
+### [WeatherApp 2026 - API, GUI, Python 🌧️]https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
-https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app 
 
 ### Quackulator 2026 - Mini Tkinter project
 **Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
