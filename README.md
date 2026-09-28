@@ -1,4 +1,4 @@
-<img width="200" height="150" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
+<img width="220" height="120" alt="I like this IDE" src="https://github.com/user-attachments/assets/7745a678-ab09-4982-9667-eace6f0df7cd" />
 
 ## Hello, I'm Rosie Witkowski a second year computer science student! 
 
