@@ -10,9 +10,8 @@
 **Description**: A simple calculator application with a unique 'duck button' feature that will audibly quack the answer.
 https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/quackulator
 
-#### Hackathon 2025 - Wizard Escape Room
+#### [Hackathon 2025 - Wizard Escape Room 🧩] (https://github.com/RosieWitkowski/Hackathon2025/tree/main)
 **Description**: An enganging text-based adventure with fun riddles, completed in a challenging 1-hour time limit (placing 1st in the competition).
-https://github.com/RosieWitkowski/UniversityYear1/tree/main/hackathon2025
 
 #### Study Motivator 2025
 **Description**: A fun and simple productivity CLI app that lets you build up points, collect titles and spin a customizable prize wheel. A quick personal project to practice basic programming techniques.
