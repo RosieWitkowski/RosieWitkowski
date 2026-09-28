@@ -3,11 +3,11 @@
 ### Hello, I am Rosie Witkowski and I am currently studying Computer Science at university!
 
 # Currently working on
-https://github.com/RosieWitkowski/UniversityYear1
+https://github.com/RosieWitkowski/UniversityYear2
 
-# Portfolio 
-(Does not include files from this university year - I will select some projects from that repo once it is complete.)
-https://github.com/RosieWitkowski/Portfolio
+# University Repositories 
+### Year 2 2026-27  https://github.com/RosieWitkowski/UniversityYear2
+### Year 1 2025-26 https://github.com/RosieWitkowski/UniversityYear1
 
 # Projects
 ### WeatherApp 2026 - API, GUI, Python 
