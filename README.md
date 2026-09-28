@@ -19,8 +19,7 @@
 #### [Study Motivator 2025 📊](https://github.com/RosieWitkowski/StudyMotivator)
 **Description**: A fun and simple productivity CLI app that lets you build up points, collect titles and spin a customizable prize wheel. A quick personal project to practice basic programming techniques.
 
-
-### [CS50X 2023 - PocketLibrary.io 📚](https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project)
+#### [CS50X 2023 - PocketLibrary.io 📚](https://github.com/RosieWitkowski/Portfolio/tree/main/Courses/CS50X_respository2023/project)
 **Description**: A website for digitalising book collections, with a unique user-friendly interface and useful varied search functions; my final project for the CS50X course, in preperation for university.
 
 ## 🎓 University Repositories 
