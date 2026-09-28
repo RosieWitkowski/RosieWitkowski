@@ -7,7 +7,7 @@
 [Year 1 - 2025/26](https://github.com/RosieWitkowski/UniversityYear1)
 
 ## 🎨 Projects 
-### [WeatherApp 2026 - API, GUI, Python 🌧️]https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
+### [WeatherApp 2026 - API, GUI, Python 🌧️](https://github.com/RosieWitkowski/UniversityYear1/tree/main/summer/weather_app) 
 **Description**: An intuitive weather app with information on temperature, sunrise/sunset, etc., implementing thoughtful user-based features such as unit conversion and relevant backgrounds (for quick visible information processing). Demonstrates skills in API calling, GUI design/creation and Python logic.
 
 ### Quackulator 2026 - Mini Tkinter project
