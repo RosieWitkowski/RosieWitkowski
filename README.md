@@ -1,5 +1,5 @@
 ## Hello, I'm Rosie Witkowski! 
-### About: Studying Computer Science, looking for placements for a year in industry.
+### About: Studying Computer Science, seeking placement for a year in industry.
 <img width="2125" height="375" alt="github-header-banner" src="https://github.com/user-attachments/assets/ee6f3d31-6420-44a5-8283-967bfa8bc77f" />
 
 [<img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/2c17e261-842b-4301-ac11-a35dced3458e" />](https://www.linkedin.com/in/rosie-witkowski/) [<img width="51" height="51" alt="leetcode" src="https://github.com/user-attachments/assets/f2766636-bc8b-4aeb-ad82-d8e89c9ec88b" />](https://leetcode.com/u/RosieWitkowski/)
